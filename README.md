@@ -7,12 +7,14 @@
 
 </div>
 
-# 💫 About Me:
-🔭 I'm currently building security & networking tools that poke at how systems actually behave <br>
-🎨 I also build things purely because they'd be fun to make <br>
-🌱 Always tinkering with something new <br>
+<br>
 
-# 💻 Tech Stack:
-🧑‍💻 Languages
+- 🔭 I'm currently building security & networking tools that poke at how systems actually behave
+- 🎨 I also build things purely because they'd be fun to make
+- 🌱 Always tinkering with something new
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+<br>
+
+<div align="center">
+<sub>🛠️ Go · JavaScript · Python · PowerShell</sub>
+</div>
