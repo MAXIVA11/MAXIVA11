@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hey User ;)
+
 **I build things that probably shouldn't work, and then make them work.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-max--ivankovsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
