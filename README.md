@@ -33,10 +33,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MAXIVA11/MAXIVA11/main/metrics.svg" width="100%" />
-
 <img src="https://streak-stats.demolab.com?user=MAXIVA11&theme=radical&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
