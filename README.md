@@ -37,8 +37,6 @@ By day, I develop, integrate, and maintain security systems that have to hold up
 
 ## GitHub stats
 
-![MAXIVA11's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAXIVA11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAXIVA11&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub streak](https://streak-stats.demolab.com?user=MAXIVA11&theme=tokyonight&hide_border=true)
 
 <br>
