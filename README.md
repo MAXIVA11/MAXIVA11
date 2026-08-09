@@ -33,6 +33,8 @@
 
 <br>
 
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=MAXIVA11&theme=radical&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
