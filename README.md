@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=whoami;cybersecurity+engineer;probably+not+supposed+to+work" />
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
 [![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/MAXIVA11)
 ![Profile views](https://komarev.com/ghpvc/?username=MAXIVA11&color=39FF14&style=for-the-badge&label=)
 
