@@ -1,44 +1,51 @@
-# Build things that probably shouldn't work 🌟
+<div align="center">
 
-### Cybersecurity Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a2a1a&height=220&section=header&text=MAXIVA11&fontSize=65&fontColor=39FF14&fontAlignY=35&desc=Cybersecurity%20Engineer&descAlignY=55&descSize=22&descColor=7CFF7C&animation=fadeIn" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-max--ivankovsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
-[![Location](https://img.shields.io/badge/based_in-Tel_Aviv-7c9eff?style=flat-square)](https://github.com/MAXIVA11)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=whoami;cybersecurity+engineer;probably+not+supposed+to+work" />
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/MAXIVA11)
+![Profile views](https://komarev.com/ghpvc/?username=MAXIVA11&color=39FF14&style=for-the-badge&label=)
 
-## About
+</div>
 
-I develop, integrate, and maintain security systems that have to hold up in production
+<img src="https://raw.githubusercontent.com/MAXIVA11/MAXIVA11/output/github-contribution-grid-snake.svg" width="100%" />
 
-🔭 building security & networking tools that poke at how systems actually behave · 🎨 I also build things purely because they'd be fun to make · 🌱 Always tinkering with something new
+<div align="center">
 
-<br>
+![](https://skillicons.dev/icons?i=go,js,python,powershell,postgres,linux,git&theme=dark&perline=7)
 
-## Tech I reach for
-
-![Go, JavaScript, Python, PowerShell, PostgreSQL](https://skillicons.dev/icons?i=go,js,python,powershell,postgres&theme=dark)
-
-<br>
-
-## Featured builds
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**PulseTP**](https://github.com/MAXIVA11/PulseTP) | A rhythm-based network protocol, the timing between UDP packets is the payload, not their contents. Built and shipped in a single day. | `Go` |
-| [**Auralscape**](https://github.com/MAXIVA11/Auralscape) | Paste a song, pick a character, and watch it ride through a dusk-lit pixel-art world generated entirely from the track's tempo, key, loudness, and timbre. | `JavaScript` |
-| [**PingMeMaybe**](https://github.com/MAXIVA11/PingMeMaybe) | A stealthy exfiltration and covert-channel proof-of-concept that smuggles files through encrypted ICMP echo requests. | `PowerShell` |
-| [**SecgresDB**](https://github.com/MAXIVA11/SecgresDB) | A PostgreSQL sensitive-data scanner that helps generate compliance evidence for GDPR, CCPA, PCI-DSS, GLBA, and HIPAA. | `Python` |
-
+</div>
 
 <br>
 
-## GitHub stats
+<div align="center">
 
-![GitHub streak](https://streak-stats.demolab.com?user=MAXIVA11&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXIVA11&repo=PulseTP&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXIVA11&repo=Auralscape&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXIVA11&repo=PingMeMaybe&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXIVA11&repo=SecgresDB&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXIVA11&repo=The_Cookie_Jar&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXIVA11&repo=Xbox360Achievement&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" width="45%" />
+
+</div>
 
 <br>
 
-### Let's connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MAXIVA11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXIVA11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=MAXIVA11&theme=radical&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MAXIVA11&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<div align="center">
+
+`> connect --linkedin` [max-ivankovsky](https://www.linkedin.com/in/max-ivankovsky/)
+
+</div>
