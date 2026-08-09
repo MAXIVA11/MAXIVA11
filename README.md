@@ -1,6 +1,6 @@
 # Build things that probably shouldn't work 🌟
 
-### Cybersecurity Engineer · Builder of weird, occasionally useful things
+### Cybersecurity Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-max--ivankovsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ivankovsky/)
 [![Location](https://img.shields.io/badge/based_in-Tel_Aviv-7c9eff?style=flat-square)](https://github.com/MAXIVA11)
@@ -9,9 +9,9 @@
 
 ## About
 
-By day, I develop, integrate, and maintain security systems that have to hold up in production. By night, I build things purely because I want to know if they'd work.
+I develop, integrate, and maintain security systems that have to hold up in production
 
-🔭 Currently building security & networking tools that poke at how systems actually behave · 🎨 I also build things purely because they'd be fun to make · 🌱 Always tinkering with something new
+🔭 building security & networking tools that poke at how systems actually behave · 🎨 I also build things purely because they'd be fun to make · 🌱 Always tinkering with something new
 
 <br>
 
