@@ -30,7 +30,6 @@ I develop, integrate, and maintain security systems that have to hold up in prod
 | [**PingMeMaybe**](https://github.com/MAXIVA11/PingMeMaybe) | A stealthy exfiltration and covert-channel proof-of-concept that smuggles files through encrypted ICMP echo requests. | `PowerShell` |
 | [**SecgresDB**](https://github.com/MAXIVA11/SecgresDB) | A PostgreSQL sensitive-data scanner that helps generate compliance evidence for GDPR, CCPA, PCI-DSS, GLBA, and HIPAA. | `Python` |
 
-**Currently tinkering with:** 🔒 a kernel-level, offline device-control tool for endpoints that can't phone home to a management console · 🍪 a browser extension that turns your cookie jar into a Wrapped-style timeline of who's been tracking you the longest
 
 <br>
 
